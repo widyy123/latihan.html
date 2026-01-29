@@ -13,20 +13,11 @@ saya menggunakan hr untuk memisahkan antar kalimat, dimana nanti akan terdapat g
 
 5. img
 saya menambahkan gambar melalui link gambarnya itu. gambar nya juga sudah saya beri ukuran 200px, yaitu width nya 200px dan heightnya 200px. contoh kodenya:
-  <img src="" alt="my Profile" width="px" height="px">
+  <img src="" alt="" width="px" height="px">
 
 6. ul dan ol
-saya menggunakan ul dan juga ol untuk membuat sebuah kalimat yang memiliki simbol ataupun angka didepannya, yang dapat menunjukkan pilihan. contoh kodenya:
-         <ul type="Bahasa Pemrograman">
-        <li></li>
-    </ul>
-    
-    <ol type="Hobi">
-        <li></li>
-    </ol>
+saya menggunakan ul dan juga ol untuk membuat sebuah kalimat yang memiliki simbol ataupun angka didepannya, yang dapat menunjukkan pilihan. 
 
 7. form
-   saya menggunakan form untuk menambahkan suatu kalimat, dimana ada label (menandai) dan input (memasukkan). contoh kodenya ini: 
-        <label form="">
-        <input type="">
-   
+   saya menggunakan form untuk menambahkan suatu kalimat, dimana ada label (menandai) dan input (memasukkan). 
+
